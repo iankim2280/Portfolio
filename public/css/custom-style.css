@@ -1,0 +1,36 @@
+
+/* Side Menu */
+#sidebar-wrapper {
+    background: #8060A6 !important;
+}
+
+.service-icon {
+    color: #8060A6 !important;
+}
+
+footer.footer .social-link {
+    background-color: #8060A6 !important;
+}
+
+a {
+    /*color: #8060A6 !important;*/
+}
+
+
+.btn-primary {
+    background-color: #8060A6 !important;
+    border-color: #8060A6 !important;
+    color: #fff !important;
+}
+
+.bg-primary {
+    background-color: #8060A6 !important;
+}
+
+.text-primary {
+    color: #8060A6 !important;
+}
+
+.text-secondary {
+    color: #155C8A !important;
+}
