@@ -46,3 +46,17 @@ a {
 #home {
     background-color: seashell;
 }
+
+@media (max-width: 375px) {
+    #profilePhoto {
+        width: 245px;
+        height: 325px;
+    }
+}
+
+@media (max-width: 425px) and (min-width: 376px) {
+    #profilePhoto {
+        width: 290px;
+        height: 385px;
+    }
+}
