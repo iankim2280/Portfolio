@@ -34,3 +34,15 @@ a {
 .text-secondary {
     color: #155C8A !important;
 }
+
+#profilePhoto {
+    margin: 0 auto;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    padding-bottom: 50px;
+}
+
+#home {
+    background-color: seashell;
+}

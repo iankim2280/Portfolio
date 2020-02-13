@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b884c0f5-d510-4c44-bc3c-0986c1e546fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/custom-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/contact.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/portfolio.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/services.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/custom-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/custom-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/KakaoTalk_20200213_165016753.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/KakaoTalk_20200213_165016753.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.hbs" afterDir="false" />
     </list>
@@ -85,7 +78,7 @@
       <workItem from="1581444499947" duration="5611000" />
       <workItem from="1581470799836" duration="3193000" />
       <workItem from="1581512944349" duration="45000" />
-      <workItem from="1581625830629" duration="4047000" />
+      <workItem from="1581625830629" duration="5552000" />
     </task>
     <servers />
   </component>
