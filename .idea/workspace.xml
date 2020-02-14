@@ -3,8 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="b884c0f5-d510-4c44-bc3c-0986c1e546fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/custom-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/custom-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/stylish-portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/stylish-portfolio.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/portfolio.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/KakaoTalk_20200213_165016753.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/KakaoTalk_20200213_165016753.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg-callout.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/bg-masthead.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/portfolio-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/portfolio-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/portfolio-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/portfolio-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/portfolio-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/portfolio-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/portfolio-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/img/portfolio-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/stylish-portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/portfolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/stylish-portfolio.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/portfolio.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/about.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/about.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/contact.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/contact.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +89,9 @@
       <workItem from="1581444499947" duration="5611000" />
       <workItem from="1581470799836" duration="3193000" />
       <workItem from="1581512944349" duration="45000" />
-      <workItem from="1581625830629" duration="7117000" />
+      <workItem from="1581625830629" duration="8075000" />
+      <workItem from="1581634369004" duration="8000" />
+      <workItem from="1581636075107" duration="7118000" />
     </task>
     <servers />
   </component>
@@ -92,6 +107,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="601" y="292" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581362254823" />
+    <state x="0" y="155" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581640748033">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="155" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581640748033" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1581626832493">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -112,5 +131,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1581362561305" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1581661692394">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1581661692394" />
   </component>
 </project>
