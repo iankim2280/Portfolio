@@ -1,34 +1,34 @@
 
 /* Side Menu */
 #sidebar-wrapper {
-    background: #8060A6 !important;
+    background: #504a43 !important;
 }
 
 .service-icon {
-    color: #8060A6 !important;
+    color: #504a43 !important;
 }
 
 footer.footer .social-link {
-    background-color: #8060A6 !important;
+    background-color: #504a43 !important;
 }
 
 a {
-    /*color: #8060A6 !important;*/
+    /*color: #504a43 !important;*/
 }
 
 
 .btn-primary {
-    background-color: #8060A6 !important;
-    border-color: #8060A6 !important;
+    background-color: #504a43 !important;
+    border-color: #504a43 !important;
     color: #fff !important;
 }
 
 .bg-primary {
-    background-color: #8060A6 !important;
+    background-color: #504a43 !important;
 }
 
 .text-primary {
-    color: #8060A6 !important;
+    color: #504a43 !important;
 }
 
 .text-secondary {
@@ -44,7 +44,7 @@ a {
 }
 
 #home {
-    background-color: seashell;
+    background-color: #e6ddc6;
 }
 
 @media (max-width: 375px) {
