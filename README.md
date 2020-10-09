@@ -1,4 +1,9 @@
-## This project was built with Handlebars, ExpressJS, Bootstrap & Heroku
+# This project was built with Handlebars, ExpressJS, Bootstrap & Heroku
 
+- You can check
+  live site here http://camelkish.com/
 
-you can check http://camelkish.com/ live site
+## Personal infos
+
+1. [LinkedIn](https://www.linkedin.com/in/camelkish1/)
+2. [Updated Resume](#updated-resume)
