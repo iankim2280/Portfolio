@@ -1,62 +1,60 @@
-
 /* Side Menu */
 #sidebar-wrapper {
-    background: #504a43 !important;
+  background: #504a43 !important;
 }
 
 .service-icon {
-    color: #504a43 !important;
+  color: #504a43 !important;
 }
 
 footer.footer .social-link {
-    background-color: #504a43 !important;
+  background-color: #504a43 !important;
 }
 
 a {
-    /*color: #504a43 !important;*/
+  /*color: #504a43 !important;*/
 }
 
-
 .btn-primary {
-    background-color: #504a43 !important;
-    border-color: #504a43 !important;
-    color: #fff !important;
+  background-color: #504a43 !important;
+  border-color: #504a43 !important;
+  color: #fff !important;
 }
 
 .bg-primary {
-    background-color: #504a43 !important;
+  background-color: #504a43 !important;
 }
 
 .text-primary {
-    color: #504a43 !important;
+  color: #504a43 !important;
 }
 
 .text-secondary {
-    color: #155C8A !important;
+  color: #155c8a !important;
 }
 
 #profilePhoto {
-    margin: 0 auto;
-    /*width: 350px;*/
-    /*height: 350px;*/
-    border-radius: 50%;
-    padding-bottom: 50px;
+  margin: 0 auto;
+  /*width: 350px;*/
+  /*height: 350px;*/
+  border-radius: 50%;
+  padding-bottom: 50px;
 }
 
 #home {
-    background-color: #e6ddc6;
+  background-color: #e6ddc6;
 }
 
 @media (max-width: 375px) {
-    #profilePhoto {
-        width: 245px;
-        height: 325px;
-    }
+  #profilePhoto {
+    width: 245px;
+    height: 325px;
+  }
 }
 
 @media (max-width: 425px) and (min-width: 376px) {
-    #profilePhoto {
-        width: 290px;
-        height: 385px;
-    }
+  #profilePhoto {
+    width: 290px;
+    height: 385px;
+  }
 }
